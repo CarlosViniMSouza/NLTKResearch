@@ -1,4 +1,4 @@
-git remote add origin https://github.com/CarlosViniMSouza/NLTKResearch.git
-git branch -M main
-git push -u origin main
+git add -A 
+git commit -m "nltk add | but not working"
+git push
 git status
